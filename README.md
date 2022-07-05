@@ -15,8 +15,10 @@
     <a href="https://medium.com/@borasaltik"><b>Medium</b></a> •
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/65406368/177376691-faf96861-b440-4aee-8db7-0370753e9177.png" alt="1."/></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/65406368/177376693-877b556b-c9b7-483d-b96b-e37631c712d9.png" alt="1."/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/65406368/177378296-aa2f485d-6ac6-44df-a9f6-71984e0a95c7.png" alt="1."/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/65406368/177376691-faf96861-b440-4aee-8db7-0370753e9177.png" alt="2."/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/65406368/177376693-877b556b-c9b7-483d-b96b-e37631c712d9.png" alt="3."/></p>
+
 
 ## Built With
 
