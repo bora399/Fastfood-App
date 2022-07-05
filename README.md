@@ -28,5 +28,7 @@
 
 ## Coding Statements
 1-I drew a UI for this fast food application!
+</br>
 2-I made an algorithm!
+</br>
 3-I started coding and working on errors, mistakes!
