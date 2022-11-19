@@ -29,7 +29,7 @@
 * [Medium](https://medium.com/@borasaltik/flutter-başlangıç-rehberi-df0d66cee54c)
 
 ## Coding Statements
-1-I drew a UI for this fast food application!
+1-I drew an UI for this fast food application!
 </br>
 2-I made an algorithm!
 </br>
